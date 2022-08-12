@@ -23,7 +23,7 @@ Puedes probar la versión web [aquí](https://carlosorellana00.github.io/Primer-
 
 <div align="center">
   <a href="https://carlosorellana00.github.io/Primer-Paralax/" rel="noopener">
-  <img src="./docs/img/img2.jpg" alt="Screenshot"></a>
+  <img src="./docs/img/img3.jpg" alt="Screenshot"></a>
 </div>
 
 ## Referencias y Agradecimientos: 
